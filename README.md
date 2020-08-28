@@ -1,6 +1,6 @@
-# ASDH
+# ASDH - **Semstri 2 _FIEK_**
 
-Repo i detyrave ne lenden Algoritme dhe Struktura te Dhenave.
+Repo i detyrave ne ushtrime ne lenden Algoritme dhe Struktura te Dhenave.
 
 ## Javet
  [Java 1  - Pointerët, referencat](https://github.com/adnit/ASDH/tree/master/Java1)
